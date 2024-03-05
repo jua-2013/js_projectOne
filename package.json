@@ -1,0 +1,12 @@
+{
+  "name": "js_github",
+  "version": "1.0.0",
+  "description": "Códigos do primeiro projeto que subiremos para o nosso novo git Hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
